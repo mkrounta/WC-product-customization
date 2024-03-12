@@ -1,0 +1,65 @@
+.woocommerce_options_panel div.repeater.form-field,.woocommerce_options_panel div.set_installopt.form-field {
+    padding: 5px 20px 5px 50px!important;
+}
+.dynamic_repeater{
+	margin-bottom: 18px !Important;
+}
+.woocommerce_options_panel input.button.cst_btn {
+    width: auto;
+    margin-left: 0px;
+    margin-bottom: 23px;
+}
+
+.repeater.form-field .dynamic_repeater{
+	width: 22% !important;
+    margin-right: 7px;
+	display: inline-block;
+	float: left;
+}
+.repeater.form-field .dynamic_repeaterimg{
+	width: 10% !important;
+    margin-right: 7px;
+	display: inline-block;
+	float: left;
+}
+.label_repeater{
+	width: 22% !important;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+	margin-right: 7px !important;
+}
+.label_repeaterimg{
+	width: 10% !important;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+	margin-right: 7px !important;
+}
+.data_repeater_item{
+	width: 100%;
+    float: left;
+}
+.repeater.form-field .data_repeater_item .dynamic_repeatertext{
+width: 85% !important;
+}
+.repeater.form-field .data_repeater_item .dynamic_repeaterfix{
+width: 35% !important;
+}
+.cprices_cls{
+	float: left;
+    width: 100%;
+    margin: 0px 0px 37px;
+}
+.cprices_cls label{
+    margin: 0px !Important;
+	font-weight:600;
+}
+.cstprows {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.attr_enabled{
+	margin-bottom: 21px;
+}
